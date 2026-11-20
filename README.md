@@ -2,6 +2,9 @@
 
 A real-time interactive 3D exploration archive of Paradis Island, the three 50-meter concentric Walls (Maria, Rose, and Sina), Shiganshina District, the Nine Titans, and Survey Corps characters, built at consistent `1 unit = 1 meter` metric scale using Three.js, React Three Fiber, Drei, GSAP, custom GLSL shaders, and Next.js.
 
+- **Live 3D Experience:** https://bapdagreat.github.io/attack-on-titan-beyond-the-walls/
+- **Source Repository:** https://github.com/BapDaGreat/attack-on-titan-beyond-the-walls
+
 ![Paradis Island & Shiganshina Preview](docs/preview.png)
 
 ## Real-Time 3D Realms
